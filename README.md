@@ -7,7 +7,7 @@ Este proyecto es un simulador intercativo de e-commerce de una tienda virtual de
 -Variables
 -Ciclos o Bucles
 -Condicionales
--Funciones
+-Funciones.
 
 # ARCHIVOS A USAR:
 
